@@ -39,7 +39,7 @@ void merge_subarr(int *subarr, int *buff, size_t front, size_t mid,
 }
 
 /**
- * merge_sort_recursive - Implements the merge sort algorithm through recursion.
+ * merge_sort_recursive - Implements the merge sort algo through recursion.
  * @subarr: A subarray of the array of integers to sort.
  * @buff: A buffer to store the sorted result.
  * @front: The front index of the subarray.
